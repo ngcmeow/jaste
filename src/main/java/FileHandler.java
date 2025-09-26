@@ -6,11 +6,11 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class fileHandler {
+public class FileHandler {
     private String fileLocation = "";
     private String baseUrl = "";
 
-    public fileHandler(String baseUrl) {
+    public FileHandler(String baseUrl) {
         if (baseUrl.startsWith("/"))
             System.err.println("No absolute paths allowed.");
 

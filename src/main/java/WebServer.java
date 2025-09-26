@@ -54,7 +54,7 @@ public class WebServer {
                 return;
             }
 
-        fileHandler userUpload = new fileHandler(baseUrl);
+        FileHandler userUpload = new FileHandler(baseUrl);
         ctx.contentType("text/plain").result(userUpload.write(postedString));
     }
 }

@@ -1,3 +1,12 @@
 Manifest-Version: 1.0
 Main-Class: JasteMain
+Class-Path: websocket-core-server-11.0.25.jar kotlin-stdlib-jdk8-1.9.25.
+ jar jetty-io-11.0.25.jar jetty-security-11.0.25.jar annotations-13.0.ja
+ r jetty-http-11.0.25.jar slf4j-api-2.0.17.jar websocket-jetty-common-11
+ .0.25.jar jetty-server-11.0.25.jar jetty-jakarta-servlet-api-5.0.2.jar 
+ kotlin-stdlib-jdk7-1.9.25.jar jetty-servlet-11.0.25.jar jetty-webapp-11
+ .0.25.jar websocket-jetty-api-11.0.25.jar websocket-servlet-11.0.25.jar
+  javalin-6.7.0.jar slf4j-simple-2.0.16.jar commons-lang3-3.19.0.jar web
+ socket-core-common-11.0.25.jar kotlin-stdlib-1.9.25.jar jetty-xml-11.0.
+ 25.jar jetty-util-11.0.25.jar websocket-jetty-server-11.0.25.jar
 
