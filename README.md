@@ -1,5 +1,5 @@
 # jaste
-An extremely simple "pastebin" server purposed for interaction via Curl
+A simple "pastebin" server purposed for interaction via Curl
 
 # Usage:
 
